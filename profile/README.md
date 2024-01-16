@@ -19,9 +19,9 @@ Welcome to our project! Meet our amazing team who make everything happen.
 
 ### Paul Lee
 **Role:** Project Lead  
-**Skills:** Python, Django, DevOps  
-**Bio:** John has over 10 years of experience in backend development and leads our project.  
-**GitHub:** [johndoe](https://github.com/johndoe)
+**Skills:** Python, Django, Java, Kotlin, SpringBoot, DevOps, Kafka, RDB / NosqlDB 
+**Bio:** Love Code, Sports
+**GitHub:** [paullee714](https://github.com/paullee714)
 
 ### Bada
 **Role:** Frontend Developer  
